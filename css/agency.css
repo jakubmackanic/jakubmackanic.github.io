@@ -31,7 +31,7 @@ h4,
 h5,
 h6 {
   font-weight: 700;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  
 }
 
 section {
@@ -646,7 +646,7 @@ section#contact .section-heading {
 	position:absolute;
 	top:0;
 	left:0;
-width:110px;
+width:130px;
 	font-weight:bold;
 	font-size:13px;
 	color:#ffffff;
